@@ -107,6 +107,10 @@ The interface is available in English, Simplified Chinese and Traditional Chines
 - [Expectancy, R-multiples and SQN for memecoin traders](https://jyfkws.com/guides/expectancy-sqn-explained)
 - [Crypto alerts that get through silent mode on iPhone](https://jyfkws.com/guides/iphone-critical-crypto-alerts)
 
+- [链上交易风控术语表：熔断、回撤、R 倍数、SQN、FOMO、抽池……](https://jyfkws.com/guides/glossary)
+- [Memecoin trading discipline glossary](https://jyfkws.com/guides/glossary-en)
+- RSS: https://jyfkws.com/guides/feed.xml
+
 ## Screenshots
 
 | Discipline rules | Overview |
