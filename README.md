@@ -7,7 +7,7 @@
 **A discipline guard for on-chain memecoin traders.**
 **给链上 Meme 交易者的纪律守卫：上头的时候，有人替你把手按住。**
 
-[Website / 网站](https://jyfkws.com) · [Chrome Extension / 扩展](https://chromewebstore.google.com/detail/ecehclhcgeomkklleiaffgnkbpimogfp) · [Guide / 使用教程](https://jyfkws.com/docs) · [Features / 功能截图](https://jyfkws.com/features)
+[网站（简体）](https://jyfkws.com) · [English](https://jyfkws.com/en) · [繁體](https://jyfkws.com/zh-hk) · [Chrome Extension / 扩展](https://chromewebstore.google.com/detail/ecehclhcgeomkklleiaffgnkbpimogfp) · [Guide / 使用教程](https://jyfkws.com/docs) · [Features / 功能截图](https://jyfkws.com/features)
 
 </div>
 
@@ -91,6 +91,21 @@ The interface is available in English, Simplified Chinese and Traditional Chines
 - [How to stop revenge trading memecoins](https://jyfkws.com/guides/stop-revenge-trading-memecoins)
 - [Free memecoin paper trading on GMGN](https://jyfkws.com/guides/memecoin-paper-trading-gmgn)
 - [Is a GMGN API key safe to use with third-party tools?](https://jyfkws.com/guides/gmgn-api-key-safety-en)
+
+- [期望值、盈亏比、SQN：怎么判断你的打法是不是在慢性亏钱](https://jyfkws.com/guides/expectancy-sqn)
+- [币价提醒怎么设才不吵：涨跌步长、冷却、流动性门槛、静默时段](https://jyfkws.com/guides/price-alert-not-noisy)
+- [用 Telegram 接收 Meme 币价格和交易纪律提醒](https://jyfkws.com/guides/telegram-price-alert)
+- [用飞书群机器人接收币价异动和纪律提醒](https://jyfkws.com/guides/feishu-alert)
+- [手感最好的时候为什么最危险](https://jyfkws.com/guides/hot-hand)
+- [克服 FOMO：把每一次「忍住没买」记下来](https://jyfkws.com/guides/fomo-journal)
+- [盯盘太久判断会变差：久坐提醒和主动休息](https://jyfkws.com/guides/screen-fatigue)
+- [领空投最容易被钓鱼的那一刻](https://jyfkws.com/guides/airdrop-phishing)
+- [怎么判断一条链现在热不热](https://jyfkws.com/guides/chain-heat)
+- [Memecoin price alerts on Telegram](https://jyfkws.com/guides/telegram-memecoin-price-alerts)
+- [A simple take-profit rule for memecoins](https://jyfkws.com/guides/memecoin-take-profit-rule)
+- [Airdrop claim and token unlock reminders](https://jyfkws.com/guides/airdrop-unlock-reminders)
+- [Expectancy, R-multiples and SQN for memecoin traders](https://jyfkws.com/guides/expectancy-sqn-explained)
+- [Crypto alerts that get through silent mode on iPhone](https://jyfkws.com/guides/iphone-critical-crypto-alerts)
 
 ## Screenshots
 
