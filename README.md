@@ -78,6 +78,20 @@ The interface is available in English, Simplified Chinese and Traditional Chines
 
 ---
 
+## Articles / 文章
+
+- [打 Meme 币上头了怎么办：5 条真正执行得了的停手规则](https://jyfkws.com/guides/stop-tilt-trading)
+- [报复性交易：连亏之后为什么停不下来，怎么给自己装一道闸](https://jyfkws.com/guides/revenge-trading)
+- [赚了又亏回去？利润锁死：赚到多少就提走一部分](https://jyfkws.com/guides/profit-lock)
+- [GMGN API Key 安全吗？不开交易权限，Key 泄露了会怎样](https://jyfkws.com/guides/gmgn-api-key-safety)
+- [空投领取、代币解锁总是忘？设一个叫得醒你的提醒](https://jyfkws.com/guides/airdrop-reminder)
+- [Meme 币模拟交易：在 GMGN 上用假钱先把新打法跑一遍](https://jyfkws.com/guides/meme-paper-trading)
+- [iPhone 静音也能响的币价提醒：Bark「重要警告」怎么用](https://jyfkws.com/guides/iphone-silent-alert)
+- [一起冲狗的朋友睡着了怎么叫醒：一键喊话小伙伴](https://jyfkws.com/guides/buddy-call)
+- [How to stop revenge trading memecoins](https://jyfkws.com/guides/stop-revenge-trading-memecoins)
+- [Free memecoin paper trading on GMGN](https://jyfkws.com/guides/memecoin-paper-trading-gmgn)
+- [Is a GMGN API key safe to use with third-party tools?](https://jyfkws.com/guides/gmgn-api-key-safety-en)
+
 ## Screenshots
 
 | Discipline rules | Overview |
